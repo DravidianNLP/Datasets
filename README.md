@@ -31,4 +31,4 @@ Datasets
 
 Reach Out to us if you need any datasets for your work.
 
-Mail us at dravidianlangtech@gmail.com
+Mail us at dravidianlangtech@gmail.com or bharathiraja.akr@gmail.com 
