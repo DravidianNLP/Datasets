@@ -6,7 +6,7 @@ Some Datasets are not publicly available yet, do reach out to us if you want to 
 Datasets
 -------
 * [KANCMD: Kannada Code-Mixed Dataset for Sentiment Analysis and Offenisve Language Detection](https://aclanthology.org/2020.peoples-1.6.pdf) 
-  * Dataset [Tp be Updated]
+  * Dataset [To be Updated]
 * [Hope Speech detection in under-resourced Kannada language](https://arxiv.org/abs/2108.04616)
   * [Dataset](https://huggingface.co/datasets/kan_hope) [Can be imported directly from [Hugginface Datasets](https://huggingface.co/datasets)]
 * [A sentiment analysis dataset for code-mixed Malayalam-English](https://aclanthology.org/2020.sltu-1.25/) 
